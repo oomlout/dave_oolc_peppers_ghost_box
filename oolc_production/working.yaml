@@ -1,0 +1,6 @@
+project_id: dave_oolc_peppers_ghost_box
+project_name: Dave Oolc Peppers Ghost Box
+project_repo: https://github.com/oomlout/dave_oolc_peppers_ghost_box
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
